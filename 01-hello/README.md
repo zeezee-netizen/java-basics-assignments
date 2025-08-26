@@ -1,11 +1,10 @@
-# Hello.java
+# 01-hello
 
-This is a simple Java program that prints a welcome message.
+## Description
+First Java program that prints a greeting to the console.  
+Demonstrates compiling and running a simple `public class` with `main(String[] args)`.
 
-## Source Code
-```java
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Hello, team! Welcome to Java.");
-    }
-}
+## Steps
+1. Compile:
+   ```bash
+   javac Hello.java
