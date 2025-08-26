@@ -1,6 +1,11 @@
 # Hello.java
 
-Output screenshot:
+This is a simple Java program that prints a welcome message.
 
-![output](screenshot.png)
-
+## Source Code
+```java
+public class Hello {
+    public static void main(String[] args) {
+        System.out.println("Hello, team! Welcome to Java.");
+    }
+}
